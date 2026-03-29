@@ -22,5 +22,7 @@ Sou um Desenvolvedor de Software em transição de carreira, vindo de uma sólid
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Estatísticas do GitHub de Marcos](https://github-readme-stats.vercel.app/api?username=m4lmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=m4lmeida&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m4lmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m4lmeida&layout=compact&langs_count=7&theme=dracula" />
+</p>
